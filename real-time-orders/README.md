@@ -19,6 +19,7 @@ ws.broadcast()
 every browser tab ◀───┘
 
 text
+<img width="1878" height="857" alt="image" src="https://github.com/user-attachments/assets/d22dd4d1-546f-4c9c-9a04-12b957e5021f" />
 
 
 1. A REST call (or direct SQL) changes a row in `orders`
@@ -62,7 +63,7 @@ text
 ### 1 — clone and install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Guri9368/real-time-orders
 cd real-time-orders/backend
 npm install
 2 — create the database
